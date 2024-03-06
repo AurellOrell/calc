@@ -8,5 +8,8 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!");    
     }
+	static int plus(int a, int b){
+	return a, b;
+	}
   }
 }
